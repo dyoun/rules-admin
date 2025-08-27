@@ -32,4 +32,10 @@ docker-compose up
 * Click the right triangle to submit the request
 * Output will display a response and table will be highlighted with match rules criteria
 
+## Graph View
+![Graph View](images/graph-editor.png)
+
+## Rules View
+![Rules View](images/rules-editor.png)
+
 Rules can be imported from 'Upload JSON' in the left sidebar and selecting `fire_risk.json`
